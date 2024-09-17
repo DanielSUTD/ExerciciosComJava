@@ -1,0 +1,37 @@
+Descrição do Projeto
+
+Neste projeto, o aluno irá desenvolver um sistema simples de gerenciamento de funcionários para uma empresa. O sistema permitirá que o usuário cadastre funcionários e gerentes, inserindo seus dados via terminal. Em seguida, o sistema armazenará esses dados em uma lista, que será organizada em ordem alfabética usando o algoritmo de ordenação Bubble Sort.
+
+Requisitos do Sistema
+
+1.Criação de Classes:
+
+•O sistema deve ter três classes:
+
+•Funcionario: Uma classe abstrata que será a classe mãe das demais.
+
+•Gerente: Uma classe filha que herda de Funcionario.
+
+•Operador: Outra classe filha que herda de Funcionario.
+
+2.Classe Abstrata:
+
+•A classe Funcionario deve ser abstrata e conter atributos como nome, salario, cargo, e métodos que serão herdados pelas classes Gerente e Operador.
+
+3.Herança e Override:
+
+•A classe Gerente deve sobrescrever (override) algum dos métodos herdados da classe Funcionario, como o método de cálculo de bônus salarial ou uma descrição do cargo.
+
+4.Entrada de Dados pelo Usuário:
+
+•O sistema deve permitir que o usuário insira dados dos funcionários e gerentes via terminal, como nome, salário, e cargo.
+
+5.Armazenamento dos Dados:
+
+•Os dados inseridos devem ser armazenados em uma lista de funcionários, que incluirá tanto Gerente quanto Operador.
+
+6.Organização dos Dados:
+
+•A lista de funcionários deve ser organizada em ordem alfabética pelo nome utilizando o algoritmo Bubble Sort.
+
+EXTRA: Salve os dados em um arquivo de texto ou em um banco de dados.
