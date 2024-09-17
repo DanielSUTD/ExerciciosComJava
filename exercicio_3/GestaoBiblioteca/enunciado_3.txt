@@ -1,0 +1,17 @@
+Atividade V: Sistema de Gestão de Bibliotecas da Uniceplac
+Propósito da aplicação JAVA:
+Vamos desenvolver um sistema de gestão de bibliotecas da Uniceplac que utiliza os conceitos de encapsulamento, herança e polimorfismo. O sistema deve permitir o gerenciamento de diferentes tipos de itens em uma biblioteca, como livros, revistas e jornais, com funcionalidades específicas para cada tipo de item.
+
+DEtalhamento:
+Você deve criar um sistema onde a biblioteca gerencia diversos tipos de itens. Esses itens compartilham algumas características comuns, mas cada tipo de item possui atributos e comportamentos específicos. O sistema deve permitir adicionar, remover e listar os itens da biblioteca, além de realizar operações específicas para cada tipo de item.
+
+Requisitos:
+Classe Base ItemBiblioteca: Deve incluir atributos comuns como título, autor e ano de publicação. Esta classe deve ser abstrata, definindo métodos que serão implementados pelas subclasses.
+Subclasses:
+Livro: Herda de ItemBiblioteca, adicionando atributos como número de páginas e método específico para emprestar o livro.
+Revista: Herda de ItemBiblioteca, adicionando atributos como edição e método específico para visualizar a capa.
+Jornal: Herda de ItemBiblioteca, adicionando atributos como data de publicação e método específico para exibir as manchetes principais.
+Encapsulamento: Os atributos das classes devem ser privados, acessíveis apenas por meio de métodos públicos (getters e setters).
+Polimorfismo: Deve ser utilizado para tratar diferentes tipos de itens de forma uniforme na classe principal, permitindo operações comuns como listagem e remoção de itens da biblioteca.
+Aplicação Principal: Deve permitir o cadastro de diferentes tipos de itens na biblioteca, listagem dos itens cadastrados, e execução de operações específicas para cada tipo de item.
+EXTRA: Implemente uma gestão de fila de espera (FIFO).
