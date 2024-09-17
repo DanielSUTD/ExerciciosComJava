@@ -1,0 +1,7 @@
+Imagine que você está desenvolvendo um sistema de gerenciamento para uma clínica médica, onde precisamos gerenciar a fila de pacientes para consultas. O projeto deve conter uma classe abstrata chamada Pessoa que representará as características comuns entre Paciente e Médico, como nome, idade e CPF. A classe Paciente deverá herdar de Pessoa e conter atributos específicos, como o tipo de consulta e prioridade (alta, média, baixa). Já a classe Médico também herdará de Pessoa, com atributos como especialidade e CRM. A fila de pacientes será organizada com base na prioridade e será implementada utilizando uma Fila de Prioridade (PriorityQueue).
+
+Você deverá criar uma classe chamada GerenciadorFila, que encapsulará a lógica de inserção, remoção e gerenciamento da fila. Utilize o conceito de Polimorfismo para permitir que o sistema trate tanto pacientes quanto médicos de forma genérica onde possível, como no registro de suas informações. O sistema deve permitir que pacientes sejam adicionados à fila de forma ordenada pela prioridade (alta prioridade vai para o início da fila), e que os médicos possam consultar o próximo paciente da fila.
+
+Além disso, o sistema deve garantir o encapsulamento, ou seja, todos os atributos devem ser privados e acessados por meio de métodos getters e setters. Por fim, implemente uma classe principal que simule o funcionamento da clínica, onde médicos atendem pacientes e a fila é atualizada conforme necessário.
+
+Crie um painel dinâmico, interface gráfica, WEB ou CLI para implementar seu sistema
