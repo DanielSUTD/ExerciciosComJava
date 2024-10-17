@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a0c9710-be79-4221-b07e-5fd0a54d0de5" name="Changes" comment="" />
+    <list default="true" id="cde2e65a-f3e7-44c3-a3a4-0a7c765114b5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio_4/br/com/uniceplac/application/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicio_4/br/com/uniceplac/application/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio_4/br/com/uniceplac/model/Bebida.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio_4/br/com/uniceplac/model/Comida.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio_4/br/com/uniceplac/model/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio_4/br/com/uniceplac/model/Sobremesa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio_4/br/com/uniceplac/model/enums/Categoria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio_4/br/com/uniceplac/service/GerenciaPedido.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio_4/br/com/uniceplac/service/Pedido.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio_4/br/com/uniceplac/util/PrecoCalculavel.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +36,7 @@
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
-  <component name="ProjectId" id="2nZ3nPIhuc8E5pUwEDBp2wNYBez" />
+  <component name="ProjectId" id="2nZCSn8Zhz2MEfOkJnDqJB4o10H" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,11 +52,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7a0c9710-be79-4221-b07e-5fd0a54d0de5" name="Changes" comment="" />
-      <created>1729166942224</created>
+      <changelist id="cde2e65a-f3e7-44c3-a3a4-0a7c765114b5" name="Changes" comment="" />
+      <created>1729171213419</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1729166942224</updated>
+      <updated>1729171213419</updated>
     </task>
     <servers />
   </component>
