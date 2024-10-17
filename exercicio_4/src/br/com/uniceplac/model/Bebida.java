@@ -21,7 +21,7 @@ public class Bebida extends Produto{
     @Override
     public double calcularPreco() {
         if (alcoolica) {
-            return precoBase * 1.10; 
+            return precoBase * 1.10;
         }
         return precoBase;
     }

@@ -1,7 +1,7 @@
 package br.com.uniceplac.model;
 
 import br.com.uniceplac.model.enums.Categoria;
-import br.com.uniceplac.uti.PrecoCalculavel;
+import br.com.uniceplac.util.PrecoCalculavel;
 
 public abstract class Produto implements PrecoCalculavel {
     protected String nome;
