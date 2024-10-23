@@ -1,0 +1,59 @@
+Exercício: Interface Gráfica para Cálculo do IMC com Enums
+
+Desenvolver uma aplicação Java com uma interface gráfica (GUI) que permita ao usuário calcular seu Índice de Massa Corporal (IMC) e categorize o resultado usando um Enum.
+
+
+
+Instruções:
+
+1.Interface Gráfica:
+
+•Crie uma interface gráfica usando Swing com os seguintes componentes:
+
+•Dois campos de entrada (JTextField):
+
+•Um para o peso (em quilogramas).
+
+•Outro para a altura (em metros).
+
+•Um botão (JButton) para calcular o IMC.
+
+•Um rótulo (JLabel) para exibir o resultado do cálculo e a categoria do IMC.
+
+
+
+2.Enum para Categorias de IMC:
+
+•Crie um Enum chamado CategoriaIMC com as seguintes categorias:
+
+•MAGREZA para IMC menor que 18.5.
+
+•NORMAL para IMC entre 18.5 e 24.9.
+
+•SOBREPESO para IMC entre 25 e 29.9.
+
+•OBESIDADE para IMC 30 ou maior.
+
+
+
+3.Método de Cálculo:
+
+•Implemente um método que:
+
+•Receba o peso e a altura do usuário.
+
+•Calcule o IMC usando a fórmula: IMC = peso / (altura * altura).
+
+•Retorne a categoria correspondente usando o Enum CategoriaIMC.
+
+
+
+4.Ação do Botão:
+
+•Ao clicar no botão, a aplicação deve:
+
+•Ler os valores de peso e altura inseridos nos campos.
+
+•Calcular o IMC.
+
+•Exibir o valor do IMC e a categoria correspondente no rótulo.
