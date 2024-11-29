@@ -2,7 +2,7 @@
 
 # Exercícios com Java
 
-Bem-vindo ao repositório **exerciciosComJava**! 🚀
+Bem-vindo ao repositório **ExerciciosComJava**! 🚀
 
 Neste repositório, você encontrará soluções para diversos exercícios e desafios de programação utilizando a linguagem **Java**. Cada solução é implementada seguindo as melhores práticas de desenvolvimento, incluindo:
 
