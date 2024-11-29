@@ -1,6 +1,4 @@
-Aqui está um exemplo de README.md para o seu repositório **exerciciosComJava**, incluindo links para os exercícios até o número 5. Certifique-se de ajustar os links para os caminhos corretos dos arquivos no seu repositório.
 
----
 
 # Exercícios com Java
 
