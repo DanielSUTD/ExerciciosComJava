@@ -18,11 +18,11 @@ O objetivo deste projeto é oferecer uma base sólida para estudantes e desenvol
 
 Cada exercício aborda diferentes conceitos de programação e desafios. Confira os exercícios disponíveis:
 
-1. [Exercício_1](https://github.com/DanielSUTD/ExerciciosComJava/tree/main/exercicio_1) 
-2. [Exercício_2](https://github.com/DanielSUTD/ExerciciosComJava/tree/main/exercicio_2)
-3. [Exercício_3](https://github.com/DanielSUTD/ExerciciosComJava/tree/main/exercicio_3)
-4. [Exercício_4](https://github.com/DanielSUTD/ExerciciosComJava/tree/main/exercicio_4)
-5. [Exercício_5](https://github.com/DanielSUTD/ExerciciosComJava/tree/main/exercicio_5)
+1. [Exercício 1](https://github.com/DanielSUTD/ExerciciosComJava/tree/main/exercicio_1) 
+2. [Exercício 2](https://github.com/DanielSUTD/ExerciciosComJava/tree/main/exercicio_2)
+3. [Exercício 3](https://github.com/DanielSUTD/ExerciciosComJava/tree/main/exercicio_3)
+4. [Exercício 4](https://github.com/DanielSUTD/ExerciciosComJava/tree/main/exercicio_4)
+5. [Exercício 5](https://github.com/DanielSUTD/ExerciciosComJava/tree/main/exercicio_5)
 
 ---
 
@@ -30,8 +30,8 @@ Cada exercício aborda diferentes conceitos de programação e desafios. Confira
 
 Certifique-se de ter as seguintes ferramentas instaladas para executar os exercícios:
 
-- **[Java JDK 17+](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)**
-- **[Maven](https://maven.apache.org/)** (opcional)
+- **[Java JDK 22](https://www.oracle.com/java/technologies/javase/jdk22-archive-downloads.html)**
+- **[Maven](https://maven.apache.org/)**
 
 ---
 
